@@ -1,0 +1,29 @@
+{
+  "name": "0059-resumeautofill",
+  "version": "0.0.1",
+  "description": "autofill firefox addon to help with those annoying job applicaitons",
+  "main": "raf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reineyurkowski/resumeAutoFill.git"
+  },
+  "keywords": [
+    "resume",
+    "auto",
+    "fill",
+    "auto-fill",
+    "help",
+    "assist",
+    "tool",
+    "addon"
+  ],
+  "author": "Reine Yurkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reineyurkowski/resumeAutoFill/issues"
+  },
+  "homepage": "https://github.com/reineyurkowski/resumeAutoFill#readme"
+}
